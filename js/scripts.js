@@ -20,4 +20,5 @@ console.log(
 //Del h2 con el id subtitle-1 imprime por consola: Su textContent; la clase del div; el textContent y la clase del p que tiene debajo.
 const elementBox3 = document.getElementById("box-3");
 
+console.log();
 //Del h2 con el id subtitle-2 imprime por consola: Su textContent; el textContent y la clase de los dos span que tiene.
